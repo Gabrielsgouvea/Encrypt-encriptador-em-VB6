@@ -5,3 +5,5 @@ Este projeto é um aplicativo desenvolvido em VB6 que permite criptografar mensa
 O sistema permite aplicar múltiplas camadas de criptografia, aumentando a complexidade da mensagem resultante. Os dados podem ser salvos em arquivos com extensão .crpt e posteriormente descriptografados mediante o uso da chave correta.
 
 O funcionamento se inspira em conceitos de criptografia clássica, como múltiplas transformações sequenciais, semelhante à ideia de máquinas históricas como a Enigma, porém com abordagem digital simplificada.
+
+Arquivo exe adicionado
